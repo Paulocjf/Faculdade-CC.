@@ -1,4 +1,4 @@
-# 💻 Faculdade CC
+# 💻 Curso CC
 
 Repositório com exercícios, algoritmos e projetos desenvolvidos durante minha graduação em Ciência da Computação.
 
